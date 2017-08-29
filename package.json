@@ -10,7 +10,7 @@
     "email": "no@tellingyou.com",
     "url": "http://google.con"
   },
-  "file": ["lib"],
+  "files": ["lib"],
   "keywords": [
     "components",
     "react",
